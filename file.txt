@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capital of France
+
+Add this to index
+Do not add this to index
